@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBuSrfa-_j61uf_QbSgw90mxztrUr9_H9k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>602468721290</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Frankeinstein.DatingApp</string>
+	<key>PROJECT_ID</key>
+	<string>datingapp-a7885</string>
+	<key>STORAGE_BUCKET</key>
+	<string>datingapp-a7885.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:602468721290:ios:8d2e91e369721fb37c0373</string>
+</dict>
+</plist>
